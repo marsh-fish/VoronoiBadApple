@@ -4,9 +4,7 @@ __pycache__/
 venv/
 env/
 
-*.mp4
-*.avi
-*.mov
+Voronoi BadApple.mp4
 
 .vscode/
 .idea/
