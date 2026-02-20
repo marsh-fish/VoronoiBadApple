@@ -8,11 +8,5 @@ env/
 *.avi
 *.mov
 
-*.mp3
-*.wav
-
-temp_render.avi
-__temp__.mp3
-
 .vscode/
 .idea/
